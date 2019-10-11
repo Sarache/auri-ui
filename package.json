@@ -1,0 +1,30 @@
+{
+  "name": "auri-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "babel.config.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/preset-react": "^7.6.3",
+    "rollup-plugin-babel": "^4.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablovegau/auri-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablovegau/auri-ui/issues"
+  },
+  "homepage": "https://github.com/pablovegau/auri-ui#readme"
+}
