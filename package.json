@@ -2,7 +2,7 @@
   "name": "auri-ui",
   "version": "1.0.2",
   "description": "",
-  "main": "babel.config.js",
+  "main": "dist/main.js",
   "scripts": {
     "build": "rollup -c"
   },
